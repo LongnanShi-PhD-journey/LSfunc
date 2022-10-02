@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+export("biplot_PCA", "loading_plot", "MC", "pca", "performance", "preprocessing_test", "SNV",
+       "spec_plot")
